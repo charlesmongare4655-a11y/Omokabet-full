@@ -1,1 +1,1 @@
-# Omokabet-full
+# Omokabet Full\nSee README in project root for deployment steps.
