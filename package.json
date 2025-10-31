@@ -1,0 +1,12 @@
+{
+  "name": "omokabet",
+  "version": "1.0.0",
+  "description": "OmokaBet full betting platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
